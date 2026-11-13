@@ -1,1 +1,15 @@
-{"seen": [], "last_run": null}
+{
+  "seen": [
+    "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+    "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
+    "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
+    "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
+    "https://github.blog/changelog/2026-11-06-github-app-support-for-enterprise-copilot-seat-management",
+    "https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot",
+    "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+    "https://github.blog/changelog/2026-11-05-dependabot-alerts-will-pause-on-inactive-repositories",
+    "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
+    "https://github.blog/changelog/2026-11-09-claude-fable-5-5-in-github-copilot"
+  ],
+  "last_run": "2026-11-13"
+}

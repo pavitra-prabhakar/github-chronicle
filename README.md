@@ -142,7 +142,11 @@ The story is still being written, one day at a time, in [`daily/`](daily/).
 ## 📰 Latest updates
 
 <!-- LATEST:START -->
-_The first daily entry will appear here after the Daily Chronicle workflow runs._
+_Last updated 2026-11-13 by the Daily Chronicle workflow. Full log in [`daily/`](daily/)._
+
+| Date | Highlights |
+|---|---|
+| [2026-11-13](daily/2026/11/2026-11-13.md) | 🗓️ On this day in GitHub history, 🆕 New on the GitHub Changelog (5): Actions for ARM32 Linux & Windows retirement; Secret scanning detects Cloudflare service tokens |
 <!-- LATEST:END -->
 
 ## 🗂️ Explore by era
