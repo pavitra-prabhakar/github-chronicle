@@ -1,0 +1,52 @@
+name: 🗓️ Milestone suggestion
+description: Propose a moment in GitHub history that belongs in the chronicle
+title: "[Milestone]: "
+labels: ["milestone", "enhancement"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Milestone title
+      placeholder: "e.g. GitHub Pages launches"
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date
+      description: Use YYYY-MM-DD, YYYY-MM or YYYY. Only as precise as the source allows.
+      placeholder: "2008-12-18"
+    validations:
+      required: true
+  - type: dropdown
+    id: era
+    attributes:
+      label: Era
+      options:
+        - origins (2007 to 2011)
+        - growth (2012 to 2017)
+        - microsoft (2018 to 2020)
+        - ai (2021 onward)
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: One or two neutral sentences describing what happened and why it matters.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source URL
+      description: A primary source such as the GitHub Blog is strongly preferred.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I searched data/milestones.json and this milestone is not already there.
+          required: true

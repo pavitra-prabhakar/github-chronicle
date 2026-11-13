@@ -1,0 +1,38 @@
+name: 🐞 Bug report
+description: A wrong date, a broken link, or a problem with the automation
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping keep the chronicle accurate!
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where is the problem?
+      options:
+        - README timeline
+        - timeline/ era page
+        - data/milestones.json
+        - daily/ entry
+        - Daily Chronicle or Monthly Release workflow
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What is wrong?
+      description: Quote the text or link the file and line.
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: What should it say instead?
+      description: Include a source link for any factual correction.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Workflow run link or logs (automation issues only)
+      render: shell

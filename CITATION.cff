@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this timeline or dataset, please cite it as below."
+title: "GitHub Chronicle: a sourced, living history of GitHub"
+type: dataset
+authors:
+  - family-names: Pathak
+    given-names: Himanshu
+repository-code: "https://github.com/pavitra-prabhakar/github-chronicle"
+url: "https://github.com/pavitra-prabhakar/github-chronicle"
+abstract: >-
+  A curated, sourced timeline of GitHub from its first commit in 2007 to the
+  present, with machine-readable milestones and a daily log generated from the
+  official GitHub Changelog.
+keywords:
+  - github
+  - history
+  - open source
+  - timeline
+  - git
+license: MIT
+version: 1.0.0
+date-released: "2026-11-13"

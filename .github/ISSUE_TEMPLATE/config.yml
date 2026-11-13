@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Questions and ideas
+    url: https://github.com/pavitra-prabhakar/github-chronicle/discussions
+    about: Ask questions or share ideas in Discussions.
+  - name: 📰 Official GitHub Changelog
+    url: https://github.blog/changelog/
+    about: For current GitHub product news, see the official changelog.

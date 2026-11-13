@@ -1,0 +1,40 @@
+name: Validate
+
+on:
+  pull_request:
+  push:
+    branches: [dev]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check data and scripts
+        run: |
+          python - <<'PY'
+          import json, sys
+          data = json.load(open("data/milestones.json"))
+          ids, errors = set(), []
+          for m in data["milestones"]:
+              for key in ("id", "year", "era", "category", "title", "summary", "source"):
+                  if not m.get(key):
+                      errors.append(f"{m.get('id')}: missing {key}")
+              if m["id"] in ids:
+                  errors.append(f"duplicate id {m['id']}")
+              ids.add(m["id"])
+              if not str(m.get("source", "")).startswith("https://"):
+                  errors.append(f"{m['id']}: source must be an https URL")
+          json.load(open("data/state.json"))
+          json.load(open(".github/chronicle.json"))
+          print(f"{len(ids)} milestones checked")
+          sys.exit("\n".join(errors) if errors else 0)
+          PY
+          python -m py_compile scripts/daily.py scripts/monthly_notes.py
+          python scripts/daily.py --dry-run > /dev/null
