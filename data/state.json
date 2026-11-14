@@ -9,7 +9,11 @@
     "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
     "https://github.blog/changelog/2026-11-05-dependabot-alerts-will-pause-on-inactive-repositories",
     "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-    "https://github.blog/changelog/2026-11-09-claude-fable-5-5-in-github-copilot"
+    "https://github.blog/changelog/2026-11-09-claude-fable-5-5-in-github-copilot",
+    "https://github.blog/changelog/2026-11-12-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+    "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+    "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+    "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api"
   ],
-  "last_run": "2026-11-13"
+  "last_run": "2026-11-14"
 }

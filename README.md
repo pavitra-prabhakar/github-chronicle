@@ -142,10 +142,11 @@ The story is still being written, one day at a time, in [`daily/`](daily/).
 ## 📰 Latest updates
 
 <!-- LATEST:START -->
-_Last updated 2026-11-13 by the Daily Chronicle workflow. Full log in [`daily/`](daily/)._
+_Last updated 2026-11-14 by the Daily Chronicle workflow. Full log in [`daily/`](daily/)._
 
 | Date | Highlights |
 |---|---|
+| [2026-11-14](daily/2026/11/2026-11-14.md) | 🆕 New on the GitHub Changelog (4): Upcoming deprecation of selected GitHub Copilot models in December; GitHub Enterprise Server support in the GitHub Copilot app |
 | [2026-11-13](daily/2026/11/2026-11-13.md) | 🗓️ On this day in GitHub history, 🆕 New on the GitHub Changelog (5): Actions for ARM32 Linux & Windows retirement; Secret scanning detects Cloudflare service tokens |
 <!-- LATEST:END -->
 
