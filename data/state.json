@@ -31,7 +31,13 @@
     "https://github.blog/changelog/2026-11-16-monitor-github-copilot-activity-through-microsoft-agent-365",
     "https://github.blog/changelog/2026-11-16-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
     "https://github.blog/changelog/2026-11-16-track-copilot-code-review-outcomes-in-repository-insights",
-    "https://github.blog/changelog/2026-11-16-github-copilot-evals-is-now-in-public-preview"
+    "https://github.blog/changelog/2026-11-16-github-copilot-evals-is-now-in-public-preview",
+    "https://github.blog/changelog/2026-11-17-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
+    "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+    "https://github.blog/changelog/2026-11-18-connect-supabase-clickup-buildkite-and-more-to-copilot",
+    "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+    "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
+    "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team"
   ],
-  "last_run": "2026-11-18"
+  "last_run": "2026-11-19"
 }
