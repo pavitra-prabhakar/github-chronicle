@@ -40,7 +40,11 @@
     "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team",
     "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
     "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-    "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available"
+    "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+    "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
+    "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+    "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+    "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host"
   ],
-  "last_run": "2026-11-20"
+  "last_run": "2026-11-21"
 }
