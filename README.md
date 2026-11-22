@@ -142,17 +142,17 @@ The story is still being written, one day at a time, in [`daily/`](daily/).
 ## 📰 Latest updates
 
 <!-- LATEST:START -->
-_Last updated 2026-11-21 by the Daily Chronicle workflow. Full log in [`daily/`](daily/)._
+_Last updated 2026-11-22 by the Daily Chronicle workflow. Full log in [`daily/`](daily/)._
 
 | Date | Highlights |
 |---|---|
+| [2026-11-22](daily/2026/11/2026-11-22.md) | 🔎 Milestone deep-dive |
 | [2026-11-21](daily/2026/11/2026-11-21.md) | 🆕 New on the GitHub Changelog (4): Security advisory permissions are now generally available; GitHub Enterprise Server 3.23 release candidate |
 | [2026-11-20](daily/2026/11/2026-11-20.md) | 🆕 New on the GitHub Changelog (3): Improvements on the pull request overview in public preview; Enterprise Live Migrations from Azure DevOps generally available |
 | [2026-11-19](daily/2026/11/2026-11-19.md) | 🆕 New on the GitHub Changelog (6): S3 audit log streaming with OpenID Connect expands to GHE.com; Wait for pull request events with GitHub CLI |
 | [2026-11-18](daily/2026/11/2026-11-18.md) | 🆕 New on the GitHub Changelog (10): OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available; GitHub Copilot Fusion updates: more availability, benchmarks, and models |
 | [2026-11-17](daily/2026/11/2026-11-17.md) | 🆕 New on the GitHub Changelog (8): Dependabot alert dismissal requests now last one year; GitHub Copilot weekly releases — November 9 |
 | [2026-11-16](daily/2026/11/2026-11-16.md) | 🔎 Milestone deep-dive |
-| [2026-11-15](daily/2026/11/2026-11-15.md) | 🗓️ On this day in GitHub history, 🔎 Milestone deep-dive |
 <!-- LATEST:END -->
 
 ## 🗂️ Explore by era
