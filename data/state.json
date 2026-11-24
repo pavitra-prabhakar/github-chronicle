@@ -44,7 +44,11 @@
     "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
     "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
     "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
-    "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host"
+    "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+    "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+    "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+    "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
+    "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1"
   ],
-  "last_run": "2026-11-23"
+  "last_run": "2026-11-24"
 }
